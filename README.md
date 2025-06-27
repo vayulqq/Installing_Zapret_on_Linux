@@ -1,0 +1,33 @@
+# Repository Files
+
+- **Strategies**
+  - **with_ipset**
+    - [general](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general)
+    - [general (ALT)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (ALT))
+    - [general (ALT2)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (ALT2))
+    - [general (ALT3)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (ALT3))
+    - [general (ALT4)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (ALT4))
+    - [general (ALT5)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (ALT5))
+    - [general (ALT6)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (ALT6))
+    - [general (FAKE TLS ALT)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (FAKE TLS ALT))
+    - [general (FAKE TLS AUTO ALT)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (FAKE TLS AUTO ALT))
+    - [general (FAKE TLS AUTO ALT2)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (FAKE TLS AUTO ALT2))
+    - [general (FAKE TLS AUTO)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (FAKE TLS AUTO))
+    - [general (FAKE TLS)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (FAKE TLS))
+    - [general (МГТС)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (МГТС))
+    - [general (МГТС2)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/with_ipset/general (МГТС2))
+  - **without_ipset**
+    - [general](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general)
+    - [general (ALT)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (ALT))
+    - [general (ALT2)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (ALT2))
+    - [general (ALT3)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (ALT3))
+    - [general (ALT4)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (ALT4))
+    - [general (ALT5)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (ALT5))
+    - [general (ALT6)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (ALT6))
+    - [general (FAKE TLS ALT)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (FAKE TLS ALT))
+    - [general (FAKE TLS AUTO ALT)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (FAKE TLS AUTO ALT))
+    - [general (FAKE TLS AUTO ALT2)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (FAKE TLS AUTO ALT2))
+    - [general (FAKE TLS AUTO)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (FAKE TLS AUTO))
+    - [general (FAKE TLS)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (FAKE TLS))
+    - [general (МГТС)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (МГТС))
+    - [general (МГТС2)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/main/Strategies/without_ipset/general (МГТС2))
