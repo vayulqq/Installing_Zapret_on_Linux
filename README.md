@@ -1,6 +1,5 @@
 # Repository Files
 
-- [README.md](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/refs/heads/main/README.md)
 - **Strategies**
   - **with_ipset**
     - [general](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/refs/heads/main/Strategies/with_ipset/general)
