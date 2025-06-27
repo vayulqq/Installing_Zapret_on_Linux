@@ -335,4 +335,5 @@ sudo sed -i "s#^NFQWS_OPT=\".*#NFQWS_OPT=\" $(curl -sL 'URL' | xargs)\"#" /opt/z
 - [general (FAKE TLS)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/refs/heads/main/Strategies/without_ipset/general%20%28FAKE%20TLS%29)
 - [general (МГТС)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/refs/heads/main/Strategies/without_ipset/general%20%28%D0%9C%D0%93%D0%A2%D0%A1%29)
 - [general (МГТС2)](https://raw.githubusercontent.com/vayulqq/Installing_Zapret_on_Linux/refs/heads/main/Strategies/without_ipset/general%20%28%D0%9C%D0%93%D0%A2%D0%A12%29)
+
 Доки пока не закончил)
