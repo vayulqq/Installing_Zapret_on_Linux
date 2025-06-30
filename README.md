@@ -152,7 +152,7 @@ enable ipv6 support (default: N) (Y/N)? N
 curl -6 -s https://ipinfo.io/ip && echo " - IPv6 доступен" || echo "IPv6 недоступен"
 ```
 
-Если нужно начать установку заново, удалите временные файлы:
+Если нужно начать установку заново, удалите все файлы zapret-а:
 
 ```bash
 sudo rm -rf /opt/zapret
@@ -252,7 +252,7 @@ your choice (default: ANY):
 ifconfig
 ```
 
-Если нужно начать заново, удалите временные файлы:
+Если нужно начать заново, удалите все файлы zapret-а:
 
 ```bash
 sudo rm -rf /opt/zapret
